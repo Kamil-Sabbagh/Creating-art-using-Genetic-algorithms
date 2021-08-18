@@ -30,6 +30,7 @@ population
 
 ##### How to use:
 To use this program all you need is a working python IDE, then:
+( Link to install PyCharm https://www.jetbrains.com/help/pycharm/installation-guide.html) 
 1) open the folder, and add the the image you want to edit to the folder
 2) open main.py using your prefered python IDE. 
 3) change the imgage name in the code in line #16 to the image name you have add
