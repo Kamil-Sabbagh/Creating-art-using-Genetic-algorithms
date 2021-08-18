@@ -24,6 +24,8 @@ breading using the crossover function and new offspring will be adding the new
 population
 
 #### Illustration (Examples):
+[AI genetic algorithms report (Original).pdf](https://github.com/Kamil-Sabbagh/Creating-art-using-Genetic-algorithms/files/7005992/AI.genetic.algorithms.report.Original.pdf)
+[AI genetic algorithms report (AI generated).pdf](https://github.com/Kamil-Sabbagh/Creating-art-using-Genetic-algorithms/files/7005993/AI.genetic.algorithms.report.AI.generated.pdf)
 
 
 ##### How to use:
